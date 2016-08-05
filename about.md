@@ -2,12 +2,9 @@
 layout: page
 title: درباره
 permalink: /about/
-published: false
+published: true
 category: admin
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+من علی‌رضا حیاتی هستم. یک تجزیه‌گر تجربه کاربری گیاهخوار از شیراز در ایران. هم‌اکنون در بنیاد حیاتی و شرکت مایکروسافت کوشش می‌کنم. از سال ۱۳۸۳ شروع به کار کردم و هم‌چنان این کوشش ادامه دارد.
+می‌توانید برای من رایانامه بفرستید به alirezahayati@outlook.com، تلاش می‌کنم پاسخ بدم.
