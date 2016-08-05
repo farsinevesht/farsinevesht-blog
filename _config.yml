@@ -1,22 +1,21 @@
 # Site settings
-title: "مهدی صادقی"
-motto: "در مورد نرم‌افزار و ایده‌هایم"
-author: Mehdi Sadeghi
-email: sadeghi@mehdix.org
+title: "علی‌رضا حیاتی"
+motto: "نوشته‌های علی‌رضا به زبان پارسی"
+author: Alireza Hayati
+email: alirezahayati@outlook.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mehdix.ir" # the base hostname & protocol for your site
-keywords: "کامپیوتر، برنامه‌نویسی، پایتون، علم"
-copyright: "Commons Attribution 4.0 International"
+keywords: "پارسی، یادداشت، نبشته، رایانه، برنامه‌نویسی"
+copyright: "Uncopyrighted."
 robot: ""
 description: > # this means to ignore newlines until "baseurl:"
-  سکوی انتشار مطالبی در مورد دانش تولید نرم‌افزار و ایده‌ها و علایق شخصی‌ام.
+  یادداشت‌های علی‌رضا حیاتی به زبان پارسی.
 
 long_description: >
-  بچه که بودیم همیشه برای بازی خونه می‌ساختیم. حالا هم نمونه‌اش رو در وب ساختم. اینجا سکوی انتشار مطالبی در مورد دانش تولید نرم‌افزار و ایده‌ها و علایق شخصی‌ام است، بویژه راه‌حل‌های مهندسی که باعث رشد و پیشرفتم شده است و می‌تواند مورد استفاده دیگران هم قرار بگیرد.
-
-twitter_username: mehdisadeghii
-github_username:  mehdisadeghi
-fullname: "مهدی صادقی"
+در تلاش برای ساخت دنیایی بهتر که در آن فناوری، صلح و آرامش وجود داشته باشد.
+twitter_username: alrrza
+github_username:  farsinevesht
+fullname: "علی‌رضا حیاتی"
 favicon: "assets/img/favicon.png"
 
 
@@ -43,14 +42,14 @@ defaults:
       type: "posts"
     values:
       layout: post
-      author: "مهدی صادقی"
+      author: "علی‌رضا حیاتی"
   -
     scope:
       path: "" # an empty string here means all files in the project
       type: "drafts" # previously `post` in Jekyll 2.2.
     values:
       layout: post
-      author: "مهدی صادقی"
+      author: "علی‌رضا حیاتی"
   -
     scope:
       path: ""
